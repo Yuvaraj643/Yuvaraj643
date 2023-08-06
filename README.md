@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Node and Express js**
 
-- 👨‍💻 All of my projects are available at [https://yuvaraj-portfolio.netlify.app/](https://yuvaraj-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Website]([https://yuvaraj-portfolio.netlify.app/](https://portfolio-yuvaraj-v.netlify.app/))
 
 - 📫 How to reach me **vyuvarajnani2001@gmail.com**
 
