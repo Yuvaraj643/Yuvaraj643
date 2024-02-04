@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvaraj643&label=Profile%20views&color=0e75b6&style=flat" alt="yuvaraj643" /> </p>
 
-- 🔭 I’m currently working on **Zomato-Clone (MERN-Stack Project)**
-
 - 🌱 I’m currently learning **Node and Express js**
 
 - 👨‍💻 All of my projects are available at <a href="https://portfolio-yuvaraj-v.netlify.app" target="blank">Portfolio</a>
