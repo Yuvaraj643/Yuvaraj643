@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/yuvaraj-v-a1a1811b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuvaraj-v-a1a1811b4" height="30" width="40" /></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/Yuvaraj643/Yuvaraj643/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Yuvaraj643/output/snake.svg" alt="Snake animation" />
 
 
 <h3 align="left">Languages and Tools:</h3>
