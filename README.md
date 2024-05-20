@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvaraj643&label=Profile%20views&color=0e75b6&style=flat" alt="yuvaraj643" /> </p>
 
-- 🌱 I’m currently learning **Node and Express js**
+- 🌱 I’m currently learning **Vue js**
 
 - 📫 How to reach me **vyuvarajnani2001@gmail.com**
 
