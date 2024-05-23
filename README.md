@@ -1,4 +1,4 @@
- <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+ <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="100%" />
 <h1 align="center">Hi 👋, I'm Yuvaraj from India Yuvaraj</h1>
 <h3 align="center">Junior Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yuvaraj643&label=Profile%20views&color=0e75b6&style=flat" alt="Yuvaraj643" /> </p>
