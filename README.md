@@ -3,7 +3,7 @@
 <h3 align="center">Junior Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yuvaraj643&label=Profile%20views&color=0e75b6&style=flat" alt="Yuvaraj643" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yuvaraj643&theme=juicyfresh" alt="Yuvaraj643" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yuvaraj643&theme=" alt="Yuvaraj643" /></a> </p>
 
 - 🔭 I’m currently working on [Insta-Vue](https://insta-vue-yn.vercel.app/)
 - 🌱 I’m currently learning **Vue js**
