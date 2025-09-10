@@ -1,6 +1,6 @@
  <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="100%" />
 <h1 align="center">Hi 👋, I'm Yuvaraj from India</h1>
-<h3 align="center">Junior Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yuvaraj643&label=Profile%20views&color=0e75b6&style=flat" alt="Yuvaraj643" /> </p>
 
 - 🔭 I’m currently working on [Insta-Vue](https://insta-vue-yn.vercel.app/)
